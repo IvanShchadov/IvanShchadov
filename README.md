@@ -28,8 +28,8 @@
 <h3> 🤝🏻 &nbsp;Сontacts: </h3>
 
 <p align="left">
-<a href="mailto:shchadov.ivan@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shchadov.ivan@gmail.com-blue?style=flat-square&logo=gmail"></a>
-<a href="https://t.me/IvanShchadov"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-IvanShchadov-blue?style=flat-square&logo=telegram"></a>
+<a href="mailto:shchadov.ivan@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shchadov.ivan@gmail.com-gray?style=flat-square&logo=gmail"></a>
+<a href="https://t.me/IvanShchadov"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-IvanShchadov-gray?style=flat-square&logo=telegram"></a>
 </p>
 
 
