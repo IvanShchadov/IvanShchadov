@@ -21,7 +21,7 @@
   
 <h3> 🎓 &nbsp;I’m currently learning:</h3>
 
- - ![TypeScript](https://img.shields.io/badge/TS-TypeScript-yellowgreen)
+ - ![Webpack](https://img.shields.io/badge/-Webpack-333333?style=flat&logo=webpack)
  - ![VueJS](https://img.shields.io/badge/JS-VUE-blue)
 
 
