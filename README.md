@@ -25,6 +25,13 @@
  - ![Webpack](https://img.shields.io/badge/-Webpack-333333?style=flat&logo=webpack)
  - ![VueJS](https://img.shields.io/badge/JS-VUE-blue)
 
+<h3> 🤝🏻 &nbsp;Сontacts: </h3>
+
+<p align="left">
+<a href="mailto:shchadov.ivan@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-artp956@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://t.me/IvanShchadov"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-ArtemCh1991-blue?style=flat-square&logo=telegram"></a>
+</p>
+
 
 <!--
 **IvanShchadov/IvanShchadov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
