@@ -20,10 +20,6 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   
-<h3> 🎓 &nbsp;I’m currently learning:</h3>
-
- - ![Webpack](https://img.shields.io/badge/-Webpack-333333?style=flat&logo=webpack)
- - ![VueJS](https://img.shields.io/badge/JS-VUE-blue)
 
 <h3> 🤝🏻 &nbsp;Сontacts: </h3>
 
