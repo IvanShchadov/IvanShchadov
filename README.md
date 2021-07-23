@@ -1,6 +1,7 @@
 <h3> 🛠 &nbsp;My tech stack:</h3>
 
 - 🌐 &nbsp;
+  ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
