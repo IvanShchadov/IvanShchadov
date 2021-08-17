@@ -1,7 +1,6 @@
 <h3> 🛠 &nbsp;My tech stack:</h3>
 
 - 🌐 &nbsp;
-  ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
@@ -10,7 +9,7 @@
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![SASS](https://img.shields.io/badge/-Sass-333333?style=flat&logo=sass)
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)
 - 🛢 &nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
